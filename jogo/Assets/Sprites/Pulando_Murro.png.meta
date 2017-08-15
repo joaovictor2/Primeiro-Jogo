@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 22b88efc5188f1a4c92765cb29ed331f
+timeCreated: 1461868887
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pulando_Murro_0
+    21300002: Pulando_Murro_1
+    21300004: Pulando_Murro_2
+    21300006: Pulando_Murro_3
+    21300008: Pulando_Murro_4
+    21300010: Pulando_Murro_5
+    21300012: Pulando_Murro_6
+    21300014: Pulando_Murro_7
+    21300016: Pulando_Murro_8
+    21300018: Pulando_Murro_9
+    21300020: Pulando_Murro_10
+    21300022: Pulando_Murro_11
+    21300024: Pulando_Murro_12
+    21300026: Pulando_Murro_13
+    21300028: Pulando_Murro_14
+    21300030: Pulando_Murro_15
+    21300032: Pulando_Murro_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pulando_Murro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.754654, y: 37.76544}
+        - {x: -23.754654, y: 36.76544}
+        - {x: -42.754654, y: -6.234558}
+        - {x: -42.754654, y: -62.23456}
+        - {x: 12.245346, y: -62.23456}
+        - {x: 26.245346, y: -61.23456}
+        - {x: 41.245346, y: -30.234558}
+        - {x: 41.245346, y: 24.765442}
+        - {x: 32.245346, y: 37.76544}
+    - name: Pulando_Murro_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.245346, y: 80.76544}
+        - {x: -12.754654, y: 80.76544}
+        - {x: -24.754654, y: 77.76544}
+        - {x: -39.754654, y: 38.76544}
+        - {x: -39.754654, y: 18.765442}
+        - {x: -20.754654, y: -46.23456}
+        - {x: -7.754654, y: -58.23456}
+        - {x: 7.245346, y: -58.23456}
+        - {x: 10.245346, y: -51.23456}
+        - {x: 37.245346, y: 18.765442}
+        - {x: 37.245346, y: 73.76544}
+    - name: Pulando_Murro_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.24536, y: 84.76544}
+        - {x: -12.754639, y: 84.76544}
+        - {x: -24.754639, y: 81.76544}
+        - {x: -39.75464, y: 42.76544}
+        - {x: -39.75464, y: 22.765442}
+        - {x: -20.754639, y: -42.23456}
+        - {x: -7.7546387, y: -54.23456}
+        - {x: 7.2453613, y: -54.23456}
+        - {x: 10.245361, y: -47.23456}
+        - {x: 37.24536, y: 22.765442}
+        - {x: 37.24536, y: 77.76544}
+    - name: Pulando_Murro_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.754639, y: 86.76544}
+        - {x: -24.754639, y: 83.76544}
+        - {x: -39.75464, y: 44.76544}
+        - {x: -39.75464, y: 19.765442}
+        - {x: -26.754639, y: -44.23456}
+        - {x: -8.754639, y: -52.23456}
+        - {x: 12.245361, y: -52.23456}
+        - {x: 37.24536, y: 22.765442}
+        - {x: 37.24536, y: 79.76544}
+        - {x: 36.24536, y: 86.76544}
+    - name: Pulando_Murro_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.245346, y: 92.76544}
+        - {x: -12.754654, y: 92.76544}
+        - {x: -25.754654, y: 88.76544}
+        - {x: -27.754654, y: 59.76544}
+        - {x: -27.754654, y: 56.76544}
+        - {x: -25.754654, y: 54.76544}
+        - {x: -36.754654, y: 37.76544}
+        - {x: -36.754654, y: 19.765442}
+        - {x: -13.754654, y: -30.234558}
+        - {x: 10.245346, y: -30.234558}
+        - {x: 37.245346, y: 34.76544}
+        - {x: 37.245346, y: 74.76544}
+        - {x: 31.245346, y: 88.76544}
+    - name: Pulando_Murro_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.245346, y: 92.76544}
+        - {x: -16.754654, y: 92.76544}
+        - {x: -38.754654, y: 59.76544}
+        - {x: -38.754654, y: 10.765442}
+        - {x: -31.754654, y: -8.234558}
+        - {x: -7.754654, y: -23.234558}
+        - {x: 15.245346, y: -23.234558}
+        - {x: 40.245346, y: 26.765442}
+        - {x: 40.245346, y: 77.76544}
+        - {x: 36.245346, y: 89.76544}
+    - name: Pulando_Murro_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.245361, y: 92.76544}
+        - {x: -12.754639, y: 92.76544}
+        - {x: -25.754639, y: 88.76544}
+        - {x: -37.75464, y: 67.76544}
+        - {x: -37.75464, y: 5.765442}
+        - {x: -30.754639, y: -11.234558}
+        - {x: 13.245361, y: -11.234558}
+        - {x: 37.24536, y: 43.76544}
+        - {x: 37.24536, y: 68.76544}
+        - {x: 31.245361, y: 88.76544}
+    - name: Pulando_Murro_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.245361, y: 85.76544}
+        - {x: -16.754639, y: 85.76544}
+        - {x: -24.754639, y: 80.76544}
+        - {x: -35.75464, y: 56.76544}
+        - {x: -35.75464, y: -10.234558}
+        - {x: -29.754639, y: -26.234558}
+        - {x: 18.245361, y: -26.234558}
+        - {x: 36.24536, y: 21.765442}
+        - {x: 36.24536, y: 66.76544}
+        - {x: 32.24536, y: 82.76544}
+    - name: Pulando_Murro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.245346, y: 83.76544}
+        - {x: -32.754654, y: 83.76544}
+        - {x: -32.754654, y: -40.23456}
+        - {x: 31.245346, y: -40.23456}
+        - {x: 38.245346, y: -24.234558}
+        - {x: 38.245346, y: 76.76544}
+        - {x: 34.245346, y: 80.76544}
+    - name: Pulando_Murro_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.245346, y: 81.76544}
+        - {x: -23.754654, y: 81.76544}
+        - {x: -31.754654, y: 71.76544}
+        - {x: -31.754654, y: 4.765442}
+        - {x: -18.754654, y: -45.23456}
+        - {x: -15.754654, y: -52.23456}
+        - {x: 8.245346, y: -52.23456}
+        - {x: 36.245346, y: -34.23456}
+        - {x: 36.245346, y: 49.76544}
+        - {x: 32.245346, y: 78.76544}
+    - name: Pulando_Murro_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.754639, y: 37.76544}
+        - {x: -23.754639, y: 36.76544}
+        - {x: -42.75464, y: -6.234558}
+        - {x: -42.75464, y: -62.23456}
+        - {x: 12.245361, y: -62.23456}
+        - {x: 26.245361, y: -61.23456}
+        - {x: 41.24536, y: -30.234558}
+        - {x: 41.24536, y: 24.765442}
+        - {x: 32.24536, y: 37.76544}
+    - name: Pulando_Murro_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.754654, y: 58.76544}
+        - {x: -35.754654, y: 35.76544}
+        - {x: -35.754654, y: -62.23456}
+        - {x: 40.245346, y: -62.23456}
+        - {x: 40.245346, y: 47.76544}
+        - {x: 33.245346, y: 58.76544}
+    - name: Pulando_Murro_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.754654, y: 61.76544}
+        - {x: -52.754654, y: 47.76544}
+        - {x: -52.754654, y: -59.23456}
+        - {x: -50.754654, y: -62.23456}
+        - {x: 49.245346, y: -62.23456}
+        - {x: 49.245346, y: 36.76544}
+        - {x: 33.245346, y: 61.76544}
+    - name: Pulando_Murro_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.754639, y: 65.76544}
+        - {x: -33.75464, y: 28.765442}
+        - {x: -31.754639, y: -7.234558}
+        - {x: -42.75464, y: -41.23456}
+        - {x: -42.75464, y: -62.23456}
+        - {x: 43.24536, y: -62.23456}
+        - {x: 43.24536, y: 28.765442}
+        - {x: 37.24536, y: 65.76544}
+    - name: Pulando_Murro_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.24536, y: -10.234558}
+        - {x: 67.24536, y: 39.76544}
+        - {x: 26.245361, y: 66.76544}
+        - {x: -31.754639, y: 66.76544}
+        - {x: -38.75464, y: 37.76544}
+        - {x: -47.75464, y: -27.234558}
+        - {x: -47.75464, y: -62.23456}
+        - {x: 33.24536, y: -62.23456}
+        - {x: 20.245361, y: -31.234558}
+        - {x: 18.245361, y: -27.234558}
+    - name: Pulando_Murro_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.245346, y: -10.234558}
+        - {x: 67.245346, y: 39.76544}
+        - {x: 26.245346, y: 66.76544}
+        - {x: -31.754654, y: 66.76544}
+        - {x: -38.754654, y: 37.76544}
+        - {x: -47.754654, y: -27.234558}
+        - {x: -47.754654, y: -62.23456}
+        - {x: 33.245346, y: -62.23456}
+        - {x: 20.245346, y: -31.234558}
+        - {x: 18.245346, y: -27.234558}
+    - name: Pulando_Murro_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4984666, y: 0.388966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.754654, y: 65.76544}
+        - {x: -33.754654, y: 28.765442}
+        - {x: -31.754654, y: -7.234558}
+        - {x: -42.754654, y: -41.23456}
+        - {x: -42.754654, y: -62.23456}
+        - {x: 43.245346, y: -62.23456}
+        - {x: 43.245346, y: 28.765442}
+        - {x: 37.245346, y: 65.76544}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
